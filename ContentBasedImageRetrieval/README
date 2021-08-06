@@ -1,0 +1,2 @@
+Performs search using an image. Top N similar images are returned.
+Requires pre-computed clustering model, encoder to vectorize input image, and vectors of images in database.

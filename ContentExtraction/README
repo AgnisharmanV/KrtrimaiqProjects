@@ -1,0 +1,3 @@
+Extracts tables and other text from pdfs.
+Returns a Word doc retaining the structure of data present (such as tables).
+Input file could be normal text pdfs, scanned image pdfs or images (with minor modifications to the code).
